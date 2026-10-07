@@ -1,0 +1,17 @@
+{
+  "name": "홈트 5종 루틴",
+  "short_name": "홈트",
+  "description": "준비운동 10분, 맨몸 5종 본 운동, 마무리 운동 10분을 동작 그림과 타이머로 따라 하는 홈트 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ECEFF4",
+  "theme_color": "#ECEFF4",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
